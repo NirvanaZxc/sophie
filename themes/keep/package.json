@@ -33,5 +33,8 @@
     "stylelint": "^14.13.0",
     "stylelint-config-rational-order": "^0.1.2",
     "stylelint-stylus": "^0.17.0"
+  },
+  "dependencies": {
+    "hexo-theme-keep": "^3.6.1"
   }
 }
